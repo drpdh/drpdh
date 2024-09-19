@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Peter den Haan (@drpdh), quantum computing specialist at Objectivity Ltd.
+- 👋 Hi, I’m Peter den Haan (@drpdh), AI and quantum specialist at Accenture UK.
 - 👀 I’m interested in quantum computing and web3
 - 🌱 I’m mostly focussed on building my quantum computing expertise and applying it to real-world problems at our customers
 - 💞️ I’m looking to collaborate on anything that might help me with the above!
