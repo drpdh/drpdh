@@ -1,12 +1,11 @@
 ## Peter den Haan
 
 Software architect and technical lead. I lead the technical side of a low-code
-generative AI product at Accenture — architecture, design work, and review of
-the core of what the wider project ships. I also work on the governance of
-agentic systems, evaluating them against the NIST AI RMF and the EU AI Act.
-Before that I helped
-build a quantum computing practice from nothing. Further back, a doctorate in
-theoretical physics, which is still how I think.
+generative AI product at Accenture: shaping the architecture and design with the
+team, and reviewing the core of what the wider project ships. I also work on the
+governance of agentic systems, evaluating them against the NIST AI RMF and the
+EU AI Act. Before that I helped build a quantum computing practice from nothing.
+Further back, a doctorate in theoretical physics, which is still how I think.
 
 Most of what I build is client work and lives in private repositories. What's
 public:
